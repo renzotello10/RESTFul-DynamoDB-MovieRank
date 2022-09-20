@@ -23,7 +23,7 @@ namespace MovieRank.Libs.Mappers
                 Actors = movie.Actors,
                 Ranking = movie.Ranking,
                 TimeRanked = movie.RankedDateTime
-            }
+            };
 
         }
     }
